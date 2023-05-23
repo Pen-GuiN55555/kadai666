@@ -2,9 +2,8 @@
 #include<stdio.h>
 
 int main(void){
-    printf("hello world");
-    printf("my hobby is playing game");
-    printf("i am in branch2nd\n");
+    
+    printf("これは課題です");
 
     return 0;
 }
